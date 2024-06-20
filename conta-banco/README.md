@@ -1,18 +1,28 @@
-## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
-## Folder Structure
 
-The workspace contains two folders by default, where:
+## JADSON OLIVEIRA 
+Meu nome é Jadson Oliveira e estou iniciando minha jornada no mundo da tecnologia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## PRETENÇÃO NO MUNDO DA TECNOLOGIA 
+Contribuir com a comunidade. Estar buscando conhecimentos e maneiras de estar inserido nesse mercado e universo amplo. 
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## Cursos em Andamento
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+| Curso          | Área        |
+| -------------- | ----------- |
+| CSS            | Frontend    |
+| HTML           | Frontend    |
+| Java           | Backend     |
+|Pyton           | Backend     |
 
-## Dependency Management
+Sinta-se à vontade para explorar meus projetos e acompanhar meu progresso! 😊
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Conecte-se Comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/jadson-oliveira-9241742a7//) 
+
+[![GitHub](https://img.shields.io/badge/GitHbt-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jadsonojr)
+
+
+
