@@ -14,19 +14,19 @@ public class ContaTerminal {
         // Solicitando e armazenando dados da conta
         System.out.println("Por favor, digite o número da agência:");
         numeroAgencia = scanner.nextInt();
-        scanner.nextLine(); // Consumir quebra de linha
+        scanner.nextLine(); //  quebra de linha
 
         System.out.println("Por favor, digite o nome do cliente:");
         nomeCliente = scanner.nextLine();
 
         System.out.println("Por favor, digite o número da conta:");
         numeroConta = scanner.nextInt();
-        scanner.nextLine(); // Consumir quebra de linha
+        scanner.nextLine(); //  quebra de linha
 
         System.out.println("Por favor, digite o saldo da conta:");
         saldoConta = scanner.nextDouble();
 
-        // Fechando o Scanner
+        // Fechando o Scanner!
         scanner.close();
 
         // Apresentando o retorno da conta
