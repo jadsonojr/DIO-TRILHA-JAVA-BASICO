@@ -1,3 +1,4 @@
+// Esta linha importa a classe Scanner, que é usada para ler a entrada do usuário do console.
 import java.util.Scanner;
 
 public class ContaTerminal {
