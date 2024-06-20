@@ -29,12 +29,12 @@ public class ContaTerminal {
         // Fechando o Scanner
         scanner.close();
 
-        // Apresentando o resumo da conta
-        String mensagemResumo = gerarMensagemResumo(numeroAgencia, nomeCliente, numeroConta, saldoConta);
-        System.out.println(mensagemResumo);
+        // Apresentando o retorno da conta
+        String mensagemRetorno = gerarMensagemRetorno(numeroAgencia, nomeCliente, numeroConta, saldoConta);
+        System.out.println(mensagemRetorno);
     }
 
-    private static String gerarMensagemResumo(int numeroAgencia, String nomeCliente, int numeroConta, double saldoConta) {
+    private static String gerarMensagemRetorno(int numeroAgencia, String nomeCliente, int numeroConta, double saldoConta) {
         return "Olá " + nomeCliente + ", obrigado por criar uma conta em nosso banco! Sua agência é " + numeroAgencia +
                 ", conta " + numeroConta + " e seu saldo de R$" + saldoConta + " já está disponível para saque.";
     }
